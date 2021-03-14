@@ -1,7 +1,6 @@
 body {
 	font-family: 'Note Sans TC', sans-seref;
 	font-size: 16px;
-	text-transform: capitalize;
 	letter-spacing: 2px;
 }
 
@@ -11,6 +10,7 @@ h1 {
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'Note Sans TC', sans-seref;
+	text-transform: capitalize;
 }
 
 .sbheading {
