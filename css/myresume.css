@@ -29,6 +29,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	background-image: url(../assets/img/brushed-alum-dark.png);
 }
 
-text-primary {
+.text-primary {
 	color: #FFCEC7!important;
 }
