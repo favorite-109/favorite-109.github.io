@@ -25,14 +25,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .bg-primary {
-	background-color: #E4A99B!important;
+	background-color: #F6B99D!important;
 	background-image: url(../assets/img/brushed-alum-dark.png);
 }
 
 .text-primary {
-	color: #E4A99B!important;
+	color: #F6B99D!important;
 }
 
 a {
-	color: #E4A99B;
+	color: #F6B99D;
 }
