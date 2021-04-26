@@ -42,5 +42,5 @@ a {
 }
 
 .table thead th {
-	vertical-align: middle;
+	text-align:center;
 }
