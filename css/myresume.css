@@ -37,3 +37,6 @@ a {
 	color: #B57FB3;
 }
 
+.table th, .table td {
+	vercal-align: middle;
+}
