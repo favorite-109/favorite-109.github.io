@@ -40,3 +40,7 @@ a {
 .table th, .table td {
 	vertical-align: middle;
 }
+
+.table thead th {
+	vertical-align: middle;
+}
